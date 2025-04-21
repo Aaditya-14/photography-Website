@@ -1,0 +1,262 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+/* header   ..........................
+.headingbox {
+  height: 70vh;
+}
+.header1 {
+  font-family: Lora;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.Name {
+  margin-top: 10px;
+  margin-left: 40px;
+  width: 20%;
+  font-style: italic;
+  font-weight: 600;
+  font-size: xx-large;
+}
+.icon {
+  margin-top: 10px;
+  width: 50%;
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: cursive;
+  font-size: 23px;
+}
+.header2 {
+  display: flex;
+  justify-content: space-between;
+}
+.quotes {
+  margin-left: 15px;
+  font-family: cursive;
+  font-weight: 900;
+  font-size: 35px;
+  margin-top: 100px;
+}
+.CameraImage {
+  height: 50vh;
+  width: 35%;
+  background-image: url(image/home\ bg.png);
+  background-size: cover;
+  display: flex;
+  margin-right: 50px;
+  border-radius: 100px;
+}
+.socialMedia {
+  margin-top: 10px;
+  margin-left: 40px;
+  display: flex;
+  align-content: flex-start;
+  width: 40%;
+  justify-content: space-evenly;
+}
+/* About us   */
+/* .aboutusBox {
+  height: 120vh;
+}
+.Aboutus {
+  border-top: double;
+  border-style: ridge;
+  border-radius: 40px;
+}
+.abtHeading {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  border-bottom: double;
+}
+.aboutText {
+  height: 800px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  font-size: 18px;
+  font-family: cursive;
+}
+.letter {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.auimage {
+  width: 100%;
+  height: 650px;
+  background-image: url(image/About\ us\ photo.jpg);
+  background-size: cover;
+  margin-right: 20px;
+  border: solid;
+  border-color: black;
+  border-radius: 50px;
+} */
+
+/* contatc us ................................................. */
+/* .Contact {
+  height: 100vh;
+  font-family: cursive;
+  color: white;
+  background-image: url(image/contact\ us\ image.webp);
+  background-size: cover;
+  margin-top: 50px;
+  font-size: 25px;
+  border-radius: 40px;
+}
+.contactHeading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  font-weight: 800;
+  margin-top: 5px;
+  border: solid;
+  border-radius: 40px;
+}
+.info {
+  margin-top: 130px;
+  margin-left: 20px;
+}
+.contactName {
+  font-size: larger;
+}
+.contactInput {
+  height: 32px;
+  background-color: black;
+  border-radius: 40px;
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 20px;
+  border-color: aliceblue;
+}
+.contactSubmit {
+  height: 30px;
+  width: 100px;
+  font-family: cursive;
+  font-size: 20px;
+  border-color: aliceblue;
+  border-radius: 40px;
+}
+.contactSubmit:hover {
+  color: rgb(33, 120, 196);
+  height: 33px;
+  width: 103px;
+}
+.contacttxt{
+  font-size: 23px;
+} */
+/* loginpanel  .....................  */
+/* .loginBox{
+height: 300px;
+font-family: cursive;
+font-size: 23px;
+border: solid;
+border-radius: 40px;
+}
+.loginHead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 40px;
+  font-weight: 900;
+}
+.adimnLogin{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.logintext{
+  background-color: black;
+  height: 35px;
+  color: antiquewhite;
+  border: solid;
+  border-radius: 40px;
+  font-family: cursive;
+  font-size: 20px;
+}
+.loginsubmit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.Pass{
+  margin-top: 10px;
+}
+.forgotpass{
+  font-size: 15px;
+}
+.forgotpass:hover{
+  color: blue;
+  text-decoration: underline;
+}
+.loginBtn{
+height: 30px;
+width: 80px;
+background-color: black;
+color: white;
+border-radius: 40px;
+border-color: white;
+}
+.loginBtn:hover{
+  height: 32px;
+width: 72px;
+} */
+
+/* Admin panel     ....................... */
+
+/* footer.......................................   */
+/* .footerBox {
+  margin-bottom: 40px;
+}
+.footer {
+  height: 40px;
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-style: dotted;
+}
+.foodDurbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: x-large;
+  font-weight: bolder;
+}
+.Copyright {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: small;
+}
+.policy {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: small;
+}
+.policy:hover {
+  text-decoration: underline;
+  transition-delay: 0.2s;
+} */
